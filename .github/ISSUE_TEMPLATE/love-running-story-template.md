@@ -1,7 +1,7 @@
 ---
 name: Love Running Story Template
 about: Default User Story Template
-title: ''
+title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: ''
 
